@@ -1,5 +1,5 @@
 name:
-   first: Anhad
-   last: Mohananey
-email: anhad@nyu.edu
-leaderboard: anhad13
+   first: Kanishk
+   last: Gandhi
+email: kvg245@nyu.edu
+leaderboard: notalinguist
